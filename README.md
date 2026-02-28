@@ -2,7 +2,7 @@
 
 An interactive **Excel-based** reporting solution designed to analyze and monitor sales data efficiently. The dashboard delivers clear, visual insights into revenue, profit, costs, and overall sales trends to support data-driven decision-making.
 
-![Sales Performance Dashboard](sales-dashboard.jpg)
+![Sales Performance Dashboard](sales-dashboard-BhQjQ2pL.jpg)
 
 ---
 
